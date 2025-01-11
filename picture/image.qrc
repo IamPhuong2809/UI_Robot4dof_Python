@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>bin.png</file>
+    <file>information.png</file>
+    <file>one.png</file>
+    <file>two.png</file>
+    <file>logo_ute.png</file>
+    <file>add.png</file>
+    <file>copy.png</file>
+    <file>curve.ico</file>
+    <file>curve.png</file>
+    <file>drop.png</file>
+    <file>grab.png</file>
+    <file>graphs.png</file>
+    <file>home.png</file>
+    <file>minus.png</file>
+    <file>off.gif</file>
+    <file>on.gif</file>
+    <file>out.png</file>
+    <file>pause-button.png</file>
+    <file>play-button.png</file>
+    <file>reload.png</file>
+    <file>reset.png</file>
+  </qresource>
+</RCC>
