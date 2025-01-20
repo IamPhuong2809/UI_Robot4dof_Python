@@ -1,3 +1,4 @@
 Pyqt5
 numpy
 pyserial
+math
